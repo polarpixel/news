@@ -1,0 +1,7 @@
+
+Ausgabe-Code:
+Modul anlegen mit folgendem Inhalt:
+
+<?php
+include($REX["INCLUDE_PATH"].'/addons/news/output/meldungen.inc.php');
+?>

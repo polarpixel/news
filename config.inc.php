@@ -29,4 +29,5 @@ $REX["ADDON"]["news"]["settings"] = array (
   'sendit' => 'Einstellungen speichern',
 );
 // --- /DYN
+
 ?>
