@@ -34,7 +34,7 @@ if ($nid == 0) {
 	$sql_query = '
 		SELECT
 			*,
-			DATE_FORMAT (datum, "%e. %M %Y") AS date
+			DATE_FORMAT(datum, "%e. %M %Y") AS date
 		FROM
 			'.$REX['TABLE_PREFIX'].'news_meldungen
 			 '.$add_query1.'
@@ -214,7 +214,7 @@ if ($nid == 0) {
 	$sql_query = '
 	SELECT
 		*,
-		DATE_FORMAT (datum, "%e. %M %Y") AS date
+		DATE_FORMAT(datum, "%e. %M %Y") AS date
 	FROM
 		'.$REX['TABLE_PREFIX'].'news_meldungen
 	WHERE
