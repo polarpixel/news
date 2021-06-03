@@ -4,3 +4,4 @@ Requirements:
 - Textile addon
 - Markitup addon
 
+It will no longer be updated.
